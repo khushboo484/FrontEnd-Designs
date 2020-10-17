@@ -48,6 +48,8 @@ body
 }
 .modal
 {
+	margin : 0px;
+	padding : 0px;
 	color :  Black;
 	background-image : url("bg.jpg");
 	background-repeat : no-repeat;
